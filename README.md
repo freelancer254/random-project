@@ -1,29 +1,27 @@
-# randomproject
+# A Random Project
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+A random project is an open source project for verifiable randomness. All requested random values can be verified by the public. Use cases include lottery, giveaways, random games, etc. The source code is available on github: https://github.com/freelancer254/random-project You can support the project too: https://www.buymeacoffee.com/freelancer254
+## Demo
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+https://randomproject.info
 ```
+* [https://randomproject.info](https://randomproject.info)
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+## Built With
+
+* [Vue.js](https://vuejs.org/) - The Javascript frontend framework used
+* [Fastapi](https://fastapi.tiangolo.com//) - For the API
+
+
+## Authors
+
+* **Robert Mutua** - *Just Had A Random Idea * - [freelancer254](https://github.com/freelancer254)
+
+
+
+## Acknowledgments
+
+* [Deta.sh](https://deta.sh/) - For the free API hosting and the awesome Deta base!
+
+
